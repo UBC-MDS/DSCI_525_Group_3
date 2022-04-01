@@ -18,7 +18,8 @@ The project includes multiple steps.
   > Overall, parquet format can significantly reduce the size of the files, and in return, it reduces the I/O and network traffic. Reduction in the I/O and network traffic is good when processing big data. The advantages of using parquet file and its processing time for transferring dataframe are provided in our final report.
 
   - Arrow exchange
-  > Arrow can work with parquet file as well as csv files. Arrow can greatly improve performances when moving data between Python and R. We do not need to write the dataframe to parquet file first in python, and then read the parquet file to R, or vice verse. It also has the following advantage:
+  > Arrow can work with parquet file as well as csv files. Arrow can greatly improve performances when moving data between Python and R. We do not need to write the dataframe to parquet file first in python, and then read the parquet file to R, or vice verse. Arrow also has the following advantage:
+
     - Whenever possible, Arrow will read and process data in chunks and in parallel automatically.
     - Columnar Memory Format
     - Language-independent
