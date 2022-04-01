@@ -1,4 +1,4 @@
-# DSCI_525_Group_3
+# Daily Rainfall Analysis
 
 ## Description
 This project is aimed at exploring useful tools for working with big data. In the report, we compare the runtimes for loading the big size `*.csv` file (e.g.5GB) with different techniques (e.g. changing data type, specifying columns, and loading in chuncks), and the runtimes for transferring dataframe from python to R with two methods (e.g. via parquet file and arrow exchange). Morevover, the time comparison is performed across different operation systems.
