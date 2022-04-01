@@ -38,7 +38,7 @@ Member 4 |   |   |   |   |
 
 Team Member | Operating System | RAM | Processor | Is SSD | EDA | Method of optimization |Time before optimization| Time after optimization
 -- | -- | -- | -- | -- | -- | -- | -- | -- 
-Member 1 | MacOS Monterey  | 16Gb  | i5  | Yes | Describe | Type Conversion|16.8s | 9.33s
+Member 1 | MacOS Monterey  | 16Gb  | i5  | Yes | Describe | Type Conversion|9.12s | 9.33s
 Member 1 | MacOS Monterey  | 16Gb  | i5  | Yes | Value_counts | Reading specific columns| 1min 9s | 46.6s
 Member 1 | MacOS Monterey  | 16Gb  | i5  | Yes | Value_counts | Chunk processing| 1min 12s | 1min 2s
 Member 2 |macOS Big Sur 11.5.2|   8GB |  Apple M1 |    Yes | Describe | Type Conversion|  8.18s | 7.94s
