@@ -37,7 +37,7 @@ Team Member | Operating System | RAM | Processor | Is SSD | Time taken
 Member 1 | MacOS Monterey  | 16Gb  | i5  | Yes | 5m 55s
 Member 2 |macOS Big Sur 11.5.2|   8GB   |  Apple M1 |    yes    |    6min 8s    |
 Member 3 | Win 10   |8Gb   | Ryzen 7  | Yes | 11m 17s
-Member 4 |   |   |   |   | 
+Member 4 | macOS Big Sur  | 8GB  | i5  | Yes  | 7m 19s 
   
 </div>
 
@@ -55,4 +55,6 @@ Member 2 |macOS Big Sur 11.5.2|   8GB |  Apple M1 |    Yes | Value_counts | Chun
 Member 3 | Win 10 | 8Gb  | Ryzen 7  | Yes | Describe | Type Conversion|38.1s | 12.5s
 Member 3 | Win 10  | 8Gb  | Ryzen 7  | Yes | Value_counts | Reading specific columns| 2min 42s | 1min 36s
 Member 3 | Win 10  | 8Gb  | Ryzen 7  | Yes | Value_counts | Chunk processing| 2min 52s | 1min 32s
-Member 4 |   |   |   |   |  |  |  |  |
+Member 4 | macOS Big Sur | 8Gb  | i5  | Yes | Describe | Type Conversion|11.1s | 10.4s
+Member 4 | macOS Big Sur  | 8Gb  | i5  | Yes | Value_counts | Reading specific columns| 1min 51s | 1min 20s
+Member 4 | macOS Big Sur | 8Gb  | i5  | Yes | Value_counts | Chunk processing| 1min 54s | 1min 15s
